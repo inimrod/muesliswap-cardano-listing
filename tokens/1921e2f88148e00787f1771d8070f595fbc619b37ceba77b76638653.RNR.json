@@ -1,0 +1,10 @@
+{
+    "policyId": "1921e2f88148e00787f1771d8070f595fbc619b37ceba77b76638653",
+    "name": "Rock-n-Roll Token",
+    "symbol": "RNR",
+    "website": "https://rnr-token.io/",
+    "description": "The utility token for rewards and services provided by Staking Rocks! [PHRCK] community stake pool.",
+    "totalSupply": 69000000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000],
+    "decimalPlaces": 6
+}
